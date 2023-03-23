@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/http//Kavith2.github.io/Food-Webiste/static/css/main.dd4ce643.css",
+    "main.js": "/http//Kavith2.github.io/Food-Webiste/static/js/main.fc2d19a6.js",
+    "static/js/787.2ced0a58.chunk.js": "/http//Kavith2.github.io/Food-Webiste/static/js/787.2ced0a58.chunk.js",
+    "static/media/pizzaLeft.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/http//Kavith2.github.io/Food-Webiste/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/pizzaLogo.png": "/http//Kavith2.github.io/Food-Webiste/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/http//Kavith2.github.io/Food-Webiste/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/http//Kavith2.github.io/Food-Webiste/index.html",
+    "main.dd4ce643.css.map": "/http//Kavith2.github.io/Food-Webiste/static/css/main.dd4ce643.css.map",
+    "main.fc2d19a6.js.map": "/http//Kavith2.github.io/Food-Webiste/static/js/main.fc2d19a6.js.map",
+    "787.2ced0a58.chunk.js.map": "/http//Kavith2.github.io/Food-Webiste/static/js/787.2ced0a58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4ce643.css",
+    "static/js/main.fc2d19a6.js"
+  ]
+}
